@@ -1,0 +1,27 @@
+.Header-color {
+  background: #33b4b7;
+    border-color: #8a6d3b;
+}
+.Header {
+  text-align: center;
+}
+.Header-logo {
+  animation: App-logo-spin infinite 25s linear;
+  height: 250px;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.start-btn {
+
+    background-color: saddlebrown;
+}
+.stop-btn {
+
+    background-color: saddlebrown;
+}
+.reset-btn {
+
+    background-color: saddlebrown;
+}
